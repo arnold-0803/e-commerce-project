@@ -42,7 +42,10 @@ const AboutUs = () => {
       </div>
       <AchievementElementor/>
 
-      <PartnersSlideScreen data={AboutPartnersData}/>
+      <PartnersSlideScreen 
+        custom
+        data={AboutPartnersData}
+      />
     </div>
   );
 }

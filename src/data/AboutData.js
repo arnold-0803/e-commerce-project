@@ -1,13 +1,13 @@
-import image1 from "../svg-materials/audi-11-logo-svgrepo-com.svg";
-import image2 from "../svg-materials/bank-sign-svgrepo-com.svg";
-import image3 from "../svg-materials/volvo-3-logo-svgrepo-com.svg";
-import image4 from "../svg-materials/social-media-brands-and-logotypes-svgrepo-com.svg";
-import image5 from "../svg-materials/paintbrush-garage-tool-svgrepo-com.svg";
-import image6 from "../svg-materials/car-wash-svgrepo-com.svg";
-import image7 from "../svg-materials/porsche-6-logo-svgrepo-com.svg";
-import image8 from "../svg-materials/ferrari-svgrepo-com.svg";
-import image9 from "../svg-materials/tools-for-reparing-svgrepo-com.svg";
-import image10 from "../svg-materials/mercedes-benz-8-logo-svgrepo-com.svg";
+import image1 from "../images/partners-pixels/audi-11-logo-svgrepo-com.svg";
+import image2 from "../images/partners-pixels/bank-sign-svgrepo-com.svg";
+import image3 from "../images/partners-pixels/volvo-3-logo-svgrepo-com.svg";
+import image4 from "../images/partners-pixels/social-media-brands-and-logotypes-svgrepo-com.svg";
+import image5 from "../images/partners-pixels/paintbrush-garage-tool-svgrepo-com.svg";
+import image6 from "../images/partners-pixels/car-wash-svgrepo-com.svg";
+import image7 from "../images/partners-pixels/porsche-6-logo-svgrepo-com.svg";
+import image8 from "../images/partners-pixels/ferrari-svgrepo-com.svg";
+import image9 from "../images/partners-pixels/tools-for-reparing-svgrepo-com.svg";
+import image10 from "../images/partners-pixels/mercedes-benz-8-logo-svgrepo-com.svg";
 
 export const AboutData = [
   {
